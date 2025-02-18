@@ -6,5 +6,5 @@ I am an IT Support Technician, with a keen interest in CyberSecurity and develop
 </div>
 
 ## Certifications
-[Google Cybersecurity Certificate](https://github.com/its-siobhanx/Google-Cybersecurity)
+* [Google Cybersecurity Certificate](https://github.com/its-siobhanx/Google-Cybersecurity)
 </div>
