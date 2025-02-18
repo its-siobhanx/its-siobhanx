@@ -3,4 +3,8 @@
 
 I am an IT Support Technician, with a keen interest in CyberSecurity and developing my skills in this area.
 
+</div>
 
+## Certifications
+[Google Cybersecurity Certificate](https://github.com/its-siobhanx/Google-Cybersecurity)
+</div>
